@@ -10,7 +10,7 @@ $ cd inheritance
 
 inheritance/ $ ./inheritance
 
-Child (Generation 0): blood type AA
+Child (Generation 0): blood type AA 
 
     Parent (Generation 1): blood type AB
     
