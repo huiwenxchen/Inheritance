@@ -11,9 +11,7 @@ $ cd inheritance
 inheritance/ $ ./inheritance
 
 Child (Generation 0): blood type AA
-
     Parent (Generation 1): blood type AB
-    
         Grandparent (Generation 2): blood type AO
         
         Grandparent (Generation 2): blood type OB
