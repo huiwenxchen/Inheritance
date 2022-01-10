@@ -6,20 +6,12 @@ To run the program. execute $ ./inheritance in the terminal. When the program co
 
 An example is below:
 
-$ cd inheritance
-
-inheritance/ $ ./inheritance
-
-Child (Generation 0): blood type AA 
-
-    Parent (Generation 1): blood type AB
-    
-        Grandparent (Generation 2): blood type AO
-        
-        Grandparent (Generation 2): blood type OB
-        
-    Parent (Generation 1): blood type OA
-    
-        Grandparent (Generation 2): blood type OO
-        
-        Grandparent (Generation 2): blood type AA
+$ cd inheritance <br/>
+inheritance/ $ ./inheritance<br/>
+Child (Generation 0): blood type AA <br/>
+    Parent (Generation 1): blood type AB<br/>
+        Grandparent (Generation 2): blood type AO<br/>    
+        Grandparent (Generation 2): blood type OB    <br/>   
+    Parent (Generation 1): blood type OA    <br/>
+        Grandparent (Generation 2): blood type OO<br/>    
+        Grandparent (Generation 2): blood type AA<br/>
