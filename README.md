@@ -2,9 +2,7 @@
 
 This program is a simulation of the inheritance of blood type in a family.
 
-To run the program. execute $ ./inheritance in the terminal.
-
-When the program compiles successfully, a randomly generated inheritance pattern in the family should be demonstrated in the terminal.
+To run the program. execute $ ./inheritance in the terminal. When the program compiles successfully, a randomly generated inheritance pattern in the family should be demonstrated in the terminal.
 
 An example is below:
 
